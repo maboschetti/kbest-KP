@@ -8,7 +8,7 @@ Source-Exact
 
 By building the code one should obtain an executable. It can be executed in folder "Instance" where an input file is available. 
 
-In this folder we also include the DLL for Cplex and Gurobi.
+In this folder we do not include the DLL for Cplex and Gurobi. In our computational experiment we use "cplex2211.dll" and "gurobi50.dll".
 
 ++++++++++++  Instance  ++++++++++++
 
