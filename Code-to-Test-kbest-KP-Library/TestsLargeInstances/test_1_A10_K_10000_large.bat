@@ -1,0 +1,10 @@
+KP-kbestLib_v3.exe 1000_100000_M1_D1_0 10000 8427 0 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_1 10000 3592 1 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_2 10000 651 2 10 1         
+KP-kbestLib_v3.exe 1000_100000_M1_D1_3 10000 2946 3 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_4 10000 6971 4 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_5 10000 8903 5 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_6 10000 10449 6 10 1       
+KP-kbestLib_v3.exe 1000_100000_M1_D1_7 10000 6944 7 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_8 10000 9071 8 10 1        
+KP-kbestLib_v3.exe 1000_100000_M1_D1_9 10000 19 9 10 1          
